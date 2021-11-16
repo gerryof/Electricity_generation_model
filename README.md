@@ -1,1 +1,1 @@
-# leap-data-science-solution
+# Electricity_generation_model
